@@ -1,0 +1,1 @@
+To install, simply download the .vsix from the Downloads section, double-click, and select the Visual Studio versions (including 2012) that you want to install to.
